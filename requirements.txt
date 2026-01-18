@@ -3,3 +3,4 @@ fairscale
 fire
 tiktoken==0.4.0
 blobfile
+filelock>=3.20.3 # not directly required, pinned by Snyk to avoid a vulnerability
